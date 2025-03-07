@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kharido</string>
+    <string name="clothes">Clothes</string>
+    <string name="furniture">Furniture</string>
+    <string name="gym">Gym Equipment</string>
+    <string name="electronics">Electronics</string>
+    <string name="shoes">Shoes</string>
+    <string name="headphones">Headphones</string>
+    <string name="smartphones">SmartPhones</string>
+    <string name="laptops">Laptops</string>
+    <string name="sports">Sports</string>
+    <string name="camera">Camera</string>
+    <string name="hairdryer">Hair Dryer</string>
+    <string name="football">Football</string>
+    <string name="racquet">Racquet</string>
+    <string name="tshirt">T-Shirt</string>
+    <string name="bottle">Bottle</string>
+    <string name="carrybag">Carry Bag</string>
+    <string name="smartwatch">Smart Watch</string>
+    <string name="knife">Knife</string>
+    <string name="stationary">Stationary</string>
+    <string name="computer">Computer</string>
+    <string name="tv">TV</string>
+    <string name="packagefood">Package Food</string>
+    <string name="beverage">Beverage</string>
+    <string name="food">Food</string>
+</resources>
