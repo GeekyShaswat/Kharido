@@ -27,4 +27,4 @@ Kharido is a modern e-commerce app built using **Jetpack Compose**. It offers a 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/kharido.git
+   git clone https://github.com/GeekyShaswat/Kharido.git
